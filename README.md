@@ -18,6 +18,9 @@ Site institucional da minha marca de desenvolvimento web, feito do zero com HTML
 - Deploy na Netlify
 
 [![Ver site](https://img.shields.io/badge/Ver_site_ao_vivo-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://nextechwebstudio.netlify.app)
+[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-marcos-tech/nextech-site)
+
+<a href="https://nextechwebstudio.netlify.app"><img src="https://raw.githubusercontent.com/joao-marcos-tech/nextech-site/main/docs/desktop.png" alt="Site da NEXTECH" width="600"></a>
 
 ## 🛠️ Tecnologias
 

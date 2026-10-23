@@ -1,10 +1,23 @@
 # Olá, eu sou o João Marcos 👋
 
-Desenvolvedor web em formação, atualmente **estagiando** na área. Crio sites e interfaces com foco em código limpo, layout responsivo e boa experiência de uso.
+Desenvolvedor web e fundador da **[NEXTECH Web Studio](https://nextechwebstudio.netlify.app)**. Estou no último ano de Sistemas de Informação, estagiando na área, e moro em Nhandeara/SP.
 
-- 💼 **Aberto a projetos freelance**: landing pages, sites institucionais e pequenos sistemas web
+- 💼 **Aberto a projetos freelance**: sites institucionais, landing pages, sistemas web sob medida e automações de WhatsApp
 - 🎯 **Interessado em vagas de desenvolvedor júnior**
 - 🌱 Aprofundando os estudos em **back-end com PHP**
+
+## ⭐ Projeto em destaque
+
+### [NEXTECH Web Studio](https://nextechwebstudio.netlify.app) · ✅ Online
+
+Site institucional da minha marca de desenvolvimento web, feito do zero com HTML, CSS e JavaScript puro, sem frameworks.
+
+- Layout responsivo com menu hambúrguer no mobile
+- Seções de serviços, portfólio, processo de trabalho e contato
+- Botões de contato com mensagem de WhatsApp pré-preenchida para cada serviço
+- Deploy na Netlify
+
+[![Ver site](https://img.shields.io/badge/Ver_site_ao_vivo-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://nextechwebstudio.netlify.app)
 
 ## 🛠️ Tecnologias
 
@@ -17,20 +30,27 @@ Desenvolvedor web em formação, atualmente **estagiando** na área. Crio sites 
 **Estudando**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Projetos
+## 🚧 Em desenvolvimento
 
-| Projeto | Descrição | Status |
-|---|---|---|
-| **Dashboard Financeiro** | Controle de renda, gastos e meta de investimento mensal, com tema claro/escuro e dados salvos no navegador. HTML, CSS e JavaScript puro. | 🚧 Em desenvolvimento |
-| **Placar de Campeonato de Vôlei** | Sistema de pontuação e classificação para campeonatos de vôlei. | 🚧 Em desenvolvimento |
+| Projeto | Descrição |
+|---|---|
+| **Dashboard Financeiro** | Controle de renda, gastos e meta de investimento mensal, com tema claro/escuro. HTML, CSS e JavaScript. |
+| **Placar de Campeonato de Vôlei** | Sistema de pontuação e classificação para campeonatos de vôlei. |
+| **Sistema de Ordens de Serviço** | Cadastro e acompanhamento de ordens de serviço. PHP + Supabase. |
 
 ## 📫 Contato
 
-Interessado em um site ou em conversar sobre uma vaga? Me chame por aqui no GitHub.
+[![Site](https://img.shields.io/badge/Site-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nextechwebstudio.netlify.app)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nextechwebstudio@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517997565260)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nextech.webstudio)
